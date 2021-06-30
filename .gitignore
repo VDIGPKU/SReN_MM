@@ -1,0 +1,7 @@
+*.pyc
+*~
+.idea
+*.o
+*.so
+output
+_ext
